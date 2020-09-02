@@ -6,5 +6,5 @@ Here, using Twitter API, we can extract the latest tweets using specif search te
 - [Word_cloud.py]('https://github.com/parvanesh/NLP/blob/master/Word_cloud.py'): In this file, we read the extracted tweets in previous step, to create a cloud of words. 
 before creating the word cloud, it is needed to remove remove stopwords.
 - [Word_frequency.py]('https://github.com/parvanesh/NLP/blob/master/Word_frequency.py'): In this file, display word frequency from extracted tweets. As a preprocessing process, these steps have been done:
-removing stopwords, remove punctuations and word stemming
+removing stopwords, remove punctuations and word stemming. </br>
 The main used package is NLTK.  
